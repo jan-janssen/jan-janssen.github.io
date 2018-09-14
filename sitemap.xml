@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+<loc>https://jan-janssen.github.io/</loc>
+<lastmod>2018-09-14T10:48:06-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://jan-janssen.github.io/archives.html</loc>
+<lastmod>2018-09-14T10:48:06-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://jan-janssen.github.io/tags.html</loc>
+<lastmod>2018-09-14T10:48:06-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://jan-janssen.github.io/categories.html</loc>
+<lastmod>2018-09-14T10:48:06-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://jan-janssen.github.io/blog/2100/12/31/with-liquid-tag/</loc>
+<lastmod>2100-12-31T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+</urlset>
